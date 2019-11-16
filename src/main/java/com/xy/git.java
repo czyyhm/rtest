@@ -6,6 +6,6 @@ public class git {
         System.out.println("sss");
         System.out.println("yewukaishi");
         System.out.println("yewujinxingzhong");
-        System.out.println("yewuwancheng");
+        System.out.println("yewuwancheng:wq:");
     }
 }
